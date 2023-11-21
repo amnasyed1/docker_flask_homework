@@ -30,5 +30,5 @@
 11. To remove a container, `docker rm <container ID>`.
 12. Finally, to clean and remove everything (system prune) `docker system prune -a -f` .
 
-## Role of Docker Compose and How It Differs from Using Docker Alone
-Docker Compose allows for running and managing multi-container docker applications, as we can see in Part 2. When using Docker alone, containers are ran and managed individually. Docker Compose can be best utilized when working on a multi-container or complex apps to reduce time and imporve productivity. 
+## Role of Docker Compose, How It Differs from Using Docker Alone, and Reflection 
+Docker Compose allows for running and managing multi-container docker applications, as we can see in Part 2. When using Docker alone, containers are ran and managed individually. Docker Compose can be best utilized when working on a multi-container or complex apps to reduce time and imporve productivity. The process of using and working with Docker was seamless and easy. The most important thing when working on especially Part2 with multi-containers is organization. Once, your workspace is organized with the right files in the right folders and the right folders in their respective bigger folders, it makes the process of utilizing Docker easy and enjoyable. 
